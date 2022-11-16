@@ -1,6 +1,3 @@
-# capstone_project
-Cohort6 Group2 Capstone project
-
 Project folder contains the code for pipeline of the prediction model.
 
 Dockerfile contains the instructions to build docker image
