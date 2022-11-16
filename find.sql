@@ -1,0 +1,1 @@
+select * from tfidf_cosinesim_proxmoxCluster where Score_1 > 0.96 or Score_2 > 0.96 or Score_3 > 0.96 or Score_4 > 0.96 or Score_5 > 0.96
