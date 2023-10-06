@@ -8,3 +8,7 @@ minimum system requirements to run these models (linux machine)
 2 - CPU
 6GB RAM
 1GB SWAP
+
+Models Shared here-
+https://drive.google.com/drive/folders/1kuzZ1ii_fMF_r25YisXNL_fmlVFQ14oI?usp=sharing
+
