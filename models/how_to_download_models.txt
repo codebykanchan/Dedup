@@ -1,0 +1,10 @@
+You can download pre-trained models for word2vec from the link below. Please use your bits email id to access the google drive link.
+
+Place all three models in models folder
+
+Alert!! - 5GB of data
+
+minimum system requirements to run these models (linux machine)
+2 - CPU
+6GB RAM
+1GB SWAP
