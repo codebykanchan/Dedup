@@ -1,4 +1,4 @@
-Project folder contains the code for pipeline of the prediction model.
+Project folder contains the code for pipeline of the duplicate documents prediction model.
 
 Dockerfile contains the instructions to build docker image
 
